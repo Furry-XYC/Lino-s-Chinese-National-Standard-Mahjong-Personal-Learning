@@ -1,0 +1,2 @@
+C:/Users/Administrator/Desktop/Lino-s-Chinese-National-Standard-Mahjong-Personal-Learning/Markdown编辑器-obsidian/*.exe filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text

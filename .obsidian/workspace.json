@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "62740446cd608e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52e33813905e0d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b438ade8b5a3e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d72283ccf69bb4ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2727b5e90c53dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acca9d57e2d75e47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d45121490ccb9475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e8777062bec39cad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0ccd605d87070da",
+    "type": "split",
+    "children": [
+      {
+        "id": "77460a696517ec4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810c3634f89a68fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "三色三步高进张分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "三色三步高进张分析 的反向链接列表"
+            }
+          },
+          {
+            "id": "451465c301a1203a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "三色三步高进张分析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "三色三步高进张分析 的出链列表"
+            }
+          },
+          {
+            "id": "86211d8342731f1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "15b47400d315123a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "三色三步高进张分析.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "三色三步高进张分析 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "3b438ade8b5a3e9d",
+  "lastOpenFiles": [
+    "三色顺子主番进张和切牌分析.md",
+    "起手和路线方向案例分析.md",
+    "README.md",
+    "Obsidian-1.9.14.exe",
+    "屏幕截图 2025-10-15 004643.png",
+    "屏幕截图 2025-10-14 235247.png",
+    "屏幕截图 2025-10-14 233421.png",
+    "未命名",
+    "屏幕截图 2025-10-14 104122.png",
+    "MCR_1998_fr.pdf",
+    "MCR_1998_en.pdf",
+    "Pasted image 20251014173753.png",
+    "MCR_20141120_CEJ.pdf",
+    "MIL-MCR.pdf",
+    "MCR_1998_zh.pdf",
+    "MCR_1998_ja.pdf",
+    "Lino-s-Chinese-National-Standard-Mahjong-Personal-Learning",
+    "屏幕截图 2025-10-14 110648.png",
+    "屏幕截图 2025-10-14 102748.png",
+    "三色三步高进张分析.md"
+  ]
+}
